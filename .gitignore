@@ -160,3 +160,9 @@ cython_debug/
 #.idea/
 .DS_Store
 Read Auto-GPT outputs.ipynb
+.idea/vcs.xml
+.idea/misc.xml
+.idea/modules.xml
+.idea/inspectionProfiles/Project_Default.xml
+.idea/inspectionProfiles/profiles_settings.xml
+.idea/austin.iml
